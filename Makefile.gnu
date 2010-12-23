@@ -39,6 +39,7 @@ default: all
 all: dist
 
 dist: FreeImage
+    mkdir Dist
 	cp *.a Dist
 	cp *.so Dist
 	cp Source/FreeImage.h Dist
