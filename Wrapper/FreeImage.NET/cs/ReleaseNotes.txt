@@ -1,0 +1,8 @@
+FreeImage .NET Wrapper Release Notes
+
+The FreeImage .NET Wrapper included in the 3.14.0 release is still on version 3.13.1. It does not yet contain any new features or bug fixes. However, it is expected to work with the new FreeImage DLL with no problems.
+
+The next version 3.14.1 of FreeImage is expected to be released soon and will contain an updated .NET wrapper, including support for all new features, that have been introduced in this and the next version of FreeImage.
+
+Regards, FreeImage .NET Wrapper Team
+
